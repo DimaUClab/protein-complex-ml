@@ -10,4 +10,5 @@ This contains source code for the models and data processing used in the paper, 
 
 # Scripts
 
-This contains the scripts used in the ablation, generation, and augmentation protocols described in the Methods of our paper
+This contains the scripts used in the ablation, generation, and augmentation protocols described in the Methods of our paper, as well as scripts for producing the figures shown in the main text and SI of the associated paper.
+
