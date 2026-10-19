@@ -1,8 +1,5 @@
 # protein-complex-ml
-This repository contains code for the paper [NAME HERE] [LINK HERE]. It is organized in the following way.
-
-# Data
-This contains the datasets used in the paper, taken from [DIPS-PLUS ZENODO LINK]. These files are organized as provided by the authors of that paper, with separate .dill files for each complex organized according to the second and third characters of their PDB IDs. These .dill files contains the residue-residue contacts as well as DataFrames containing information on atomic coordinates and other data. We also provide a folder detailing the precise ablations performed throughout the paper, and the metrics used to ablate the dataset.
+This repository contains code for the paper "Building from the ground up: augmentation strategies to improve protein language model performance on protein sets" [LINK HERE]. It is organized in the following way.
 
 # Src
 
